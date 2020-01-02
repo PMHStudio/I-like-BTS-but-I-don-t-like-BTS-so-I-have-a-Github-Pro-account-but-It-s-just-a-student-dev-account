@@ -164,4 +164,4 @@ message.channel.send({ embed });
 
 
 
-client.login('NjU4NTg3Mzc5NTIyODYzMTA0.XgSxUg.ElQMmTx-sd4qB4nzrtQt546Vxn8');
+client.login('token');
